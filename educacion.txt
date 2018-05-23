@@ -98,6 +98,9 @@
     
   </body>
   
-
+  	<footer>
+    <h3>Contacto</h3>
+     WHATSAPP: 315 833 06 55  TELEFONO: 318 421 17 05  E-MAIL: carlos.coronel23@hotmail.com
+  </footer>
 
 </html>
