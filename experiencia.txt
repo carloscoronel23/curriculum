@@ -30,9 +30,22 @@
     	   <a href="educacion.html">Educacion</a>
   	 </nav>
 
+	<h2>Experiencia</h2>
+
+         <video src="media/video/habilidades.mp4" autoplay poster="media/img/foto.png" preload="auto" controls>
+ 	 </video><br/>
+	
+
+	<audio src="media/audio/hobbies.aac" controls >
+        </audio>
+
 
   </body>
-  
 
+  <footer>
+    <h3>Contacto</h3>
+     WHATSAPP: 315 833 06 55  TELEFONO: 318 421 17 05  E-MAIL: carlos.coronel23@hotmail.com
+  </footer>
+  
 
 </html>
