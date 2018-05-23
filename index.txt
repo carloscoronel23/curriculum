@@ -3,7 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,user-scalable=no">
-    <title></title>
+  <header>
+    <svg width="200px" heigth="200px" viewbox="0 0 200 200">
+     <image xlink:href="media/img/logo1.svg" width="300px" heigth="200px" x="0" y="0"  ></image>
+    </svg>
+  </header>
+
   </head>
   <body>
     
