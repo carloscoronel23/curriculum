@@ -65,6 +65,36 @@
         </tr>
       </tbody>
     </table>
+
+		<form class="" action="index.html" method="post">
+      <fieldset>
+        <legend>Agregar Estudios</legend>
+
+    <p>Año:
+    <select name="Año">
+        <option value="0">2018</option>
+        <option value="1">2017</option>
+        <option value="2">2016</option>
+        <option value="3">2015</option>
+        <option value="4">2014</option>
+        <option value="5">2013</option>
+        <option value="6">2012</option>
+        <option value="7">2011</option>
+        <option value="8">2010</option>
+        <option value="9">2009</option>
+        <option value="10">2008</option>
+    </select>
+   </p>
+
+    <p>Instituciòn: <input type="text" name="Nombredeinstitucion" required> </p>
+    <p>  Lugar <textarea name="name" rows="8" cols="80"></textarea>
+    </p>
+    <input type="submit">
+
+
+     </fieldset>
+   </form>
+
     
   </body>
   
