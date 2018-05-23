@@ -23,6 +23,11 @@
        		<h3>LUGAR DE NACIMIENTO:</h3>  CUCUTA, NORTE DE SANTANDER
           </p>
        </section>
+
+	<nav>
+           <a href="index.html">Inicio</a>
+           <a href="experiencia.html">Experiencia</a>
+        </nav>
     
   </body>
   
