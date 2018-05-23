@@ -11,6 +11,16 @@
 
   </head>
   <body>
+ 	<h1>Curriculum Vitae</h1>
+             <section>
+                <h2>Datos Personales</h2>
+                <p>
+                    <h3> NOMBRE:</h3> CARLOS MARIO CORONEL VEGA
+                    <h3>FECHA DE NACIMIENTO:</h3>  06 DE AGOSTO DE 1989
+                    <h3>LUGAR DE NACIMIENTO:</h3>  CUCUTA, NORTE DE SANTANDER
+                </p>
+             </section>
+
     
   </body>
   
