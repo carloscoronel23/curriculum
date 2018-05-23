@@ -22,8 +22,15 @@
    	  <h3>FECHA DE NACIMIENTO:</h3>  06 DE AGOSTO DE 1989
    	  <h3>LUGAR DE NACIMIENTO:</h3>  CUCUTA, NORTE DE SANTANDER
        </p>
-  </section>
+     </section>
     
+
+	 <nav>
+    	   <a href="index.html">Inicio</a>
+    	   <a href="educacion.html">Educacion</a>
+  	 </nav>
+
+
   </body>
   
 
