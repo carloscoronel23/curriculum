@@ -30,7 +30,16 @@
 
        <h1>Informacion Personal</h1>
        <img src="media/img/foto.png" alt="">
+     <section>
+      <h2>Perfil</h2>
+        <p>Me considero una persona responsable, Respetuoso, Honesto, Amable, Creativo.<br/> Se me facilita trabajar en equipo, tengo mucha facilidad de aprendizaje, capaz de<br/> realizar cualquier función que me asignen con la mayor eficiencia posible.<br/>
+           Idiomas manejados:<ul>
+                        <li>Español</li>
+                        <li>Ingles</li>
+                      </ul>
 
+        </p>
+     </section>
 
 
   </body>
